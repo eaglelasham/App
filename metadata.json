@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Chatbot",
+  "description": "Modern chatbot with dark mode support, multimodal media tools, and active model explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
